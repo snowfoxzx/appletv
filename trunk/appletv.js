@@ -1,1 +1,0 @@
-alert("from google code!");
